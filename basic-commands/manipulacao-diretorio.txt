@@ -1,0 +1,13 @@
+debian manipulação
+
+mkdir
+rm -r
+touch
+more
+find
+less
+mv 
+cp
+pwd
+ls
+

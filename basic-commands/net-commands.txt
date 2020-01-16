@@ -1,0 +1,8 @@
+ifconfig
+ip addr show
+route -n
+ping
+netstat -a
+mtr
+iptable -L
+

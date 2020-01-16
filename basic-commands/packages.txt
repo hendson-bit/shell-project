@@ -1,0 +1,13 @@
+for debian:
+
+apt-get install
+apt-get remove
+apt-cache search
+apt install
+
+for red hat:
+
+yum install
+yum remove
+yum search
+yum clean-all
